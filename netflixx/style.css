@@ -1,0 +1,138 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+
+body{
+    background-color: black;
+
+}
+
+#header{
+    background-image: url('https://github.com/Kalvium-Program/netflix-clone-boilerplate/blob/main/assets/Title-Image.png?raw=true');
+    background-size: 100% 100%;
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+#logo{
+    height: 20px;
+    width: 90px;
+}
+
+.left-top{
+    padding: 5px;
+    color: white;
+}
+
+#right-top{
+    padding: 700px;
+}
+
+.image{
+    padding: 3px;
+    padding-bottom: 40px;
+
+}
+
+
+#n{
+    height:25px;
+    width: 15px;
+    padding-top: 300px;
+    margin-left: 60px;
+    margin-bottom: 110px;
+
+}
+
+#word{
+    color: white;
+    display: inline-block;
+    position: relative;
+    bottom: 115px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    left: .5ch;
+
+}
+
+#maid-movie{
+    color: white;
+    font-size: 750%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    bottom: 130px;
+    left: .8ch;
+}
+
+#button{
+    display:inline-block ;
+    position: relative;
+    bottom: 140px;
+    left: 9ch;
+}
+
+#button2{
+    display:inline-block ;
+    position: relative;
+    bottom: 140px;
+    left: 11ch;
+}
+
+#play{
+    font-size: 2ch;
+}
+
+.Movies{
+    height: 130px;
+    width: 230px;
+    padding: 5px;
+    position: relative;
+    bottom: 50px;
+    left: 5ch;
+}
+
+.headings{
+    color: white;
+    display: inline-block;
+    position: relative;
+    left: 4ch;
+    bottom: 85px;
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.arrow{
+    display: inline-block;
+    position: relative;
+    left: 8ch;
+    bottom: 80px;
+    filter: invert(100%);
+}
+
+.headings{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+.padam{
+    padding: 1px;
+    margin: 1px;
+    display: flex;
+}
+
+.j{
+    height: 170px;
+    position: relative;
+    bottom: 50px;
+
+}
+
+
+
+
+
+
